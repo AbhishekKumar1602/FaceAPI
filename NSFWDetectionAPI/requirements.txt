@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+aiohttp
+aiofiles
+tensorflow==2.15.0.post1
+tensorflow-hub==0.15.0
+pillow
